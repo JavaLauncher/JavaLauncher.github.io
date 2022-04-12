@@ -1,7 +1,7 @@
 # _Java Launcher_
 _**<a href="https://javalauncher.github.io">Home</a> | <a href="https://javalauncher.github.io/download/">Download</a> | <a href="https://javalauncher.github.io/help/">Help</a> | <a href="https://javalauncher.github.io/contributors/">Contributors</a>**_
 <br><br><br>
-_**Download now! Website: https://javalauncher.github.io/download/**_<br><br><br>
+_**Download now! Website: <a href="https://javalauncher.github.io/download/">https://javalauncher.github.io/download/</a>**_<br><br><br>
 <img src="https://i.playground.ru/p/mEH5gFBLVzQo8nntfgBToQ.jpeg"><br><br><br>
 _**Create new worlds!**_<br>
 _**------------------------**_<br>
